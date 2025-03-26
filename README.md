@@ -1,6 +1,6 @@
 # <div align="center"><p style="text-align: center;"><strong>BBN Solidity BOOTCAMP: Weekly Solidity Tutorial</strong></p></div>
 
-<div align="center" ><img width="350px" src="https://github.com/eben619/Zero-To-Dapp-Workshop/blob/main/ethAccraHero.png](https://github.com/Blockbridge-Network/BBN-Solidity-Bootcamp/blob/main/7a6f182a-0a62-481e-bf8d-0f8264e2a310.jpeg"></div>
+<div align="center" ><img width="350px" src="https://github.com/Blockbridge-Network/BBN-Solidity-Bootcamp/blob/main/7a6f182a-0a62-481e-bf8d-0f8264e2a310.jpeg"></div>
 
 Welcome to **Solidity Mondays**! This is a structured weekly plan to help you learn Solidity, the programming language used to write smart contracts on Ethereum and EVM compatible chains. Each week, we’ll cover a new topic, gradually building your skills from beginner to advanced.
 
